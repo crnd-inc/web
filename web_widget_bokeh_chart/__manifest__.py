@@ -4,10 +4,11 @@
 {
     "name": "Web Widget Bokeh Chart",
     "category": "Hidden",
-    "summary": "This widget allows to display charts using Bokeh library.",
+    "summary": "This widget allows to display charts using Bokeh library. "
+               "Library version 2.2.3",
     "author": "Eficent, "
               "Odoo Community Association (OCA)",
-    "version": "12.0.1.0.1",
+    "version": "12.0.2.0.0",
     "maintainers": ["lreficent"],
     "development_status": "Production/Stable",
     "website": "https://github.com/OCA/web",
