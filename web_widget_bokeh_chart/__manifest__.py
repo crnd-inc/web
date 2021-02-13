@@ -8,7 +8,7 @@
                "Library version 1.4.0",
     "author": "Eficent, "
               "Odoo Community Association (OCA)",
-    "version": "12.0.2.3.0",
+    "version": "12.0.2.4.0",
     "maintainers": ["lreficent"],
     "development_status": "Production/Stable",
     "website": "https://github.com/OCA/web",
